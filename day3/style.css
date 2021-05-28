@@ -1,0 +1,43 @@
+body
+{
+    margin: 0;
+    padding: 0;  
+    background-image:url(dance.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+.login{ 
+    margin: auto;
+    padding: 80px;
+    border-radius: 15px;
+
+}
+h1{
+    color: white;
+}
+h1{
+    font-size:xxx-large;
+    padding:20px;
+}
+h2{
+    font-size: small;
+    color: white;
+}
+label{
+    color:white;
+    font-size: 20px;
+}
+.sign-up{
+    margin: auto;
+    padding: 80px;
+    border-radius: 15px
+}
+h1{
+    font-size:xxx-large;
+    padding:20px;
+}  
+label{
+    color:white;
+    font-size: 10px;   
+}

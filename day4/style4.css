@@ -1,0 +1,41 @@
+body{
+    font-size:xx-large;
+    text-align:justify;
+    color:black;
+    text-decoration:underline;
+}
+a:link{
+    float:right;
+    text-align:right;
+    color:black;
+
+}
+a:link, a:visited{
+    margin:10px;
+    background-color:green;
+    color:wheat;
+    padding: 10px 10px;
+    text-align:center;
+    display:inline-block;
+}
+a:hover, a:active{
+    background-color:grey;
+}
+div.imagegallery{
+    margin: 10px;
+    float:left;
+    border: 2px solid black;
+    width:200px;
+    height:500px;
+    
+}
+div.description{
+    padding: 10px;
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(grey,white);
+}
+p{
+    text-align:left;
+}
